@@ -1,5 +1,7 @@
 # DarthCoin Guides
-## General listing of all substack guides
+General listing of all substack guides
+Bitcoin & Lightning
+Use cases, merchant solutions, wallets, LN nodes
 
 | General Guides (EN)                                                                                                     | Español | Français | Deutsch | Dutch | Italiano | Hrvatski | Hindi |
 | ----------------------------------------------------------------------------------------------------------------------- | ------- | -------- | ------- | ----- | -------- | -------- | ----- |
