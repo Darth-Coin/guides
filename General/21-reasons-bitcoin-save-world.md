@@ -1,5 +1,5 @@
 # 21 Reasons Why Bitcoin Will Save The World
-- A stepping stone for nocoiners...
+### A stepping stone for nocoiners...
 
 ![21 reasons](/assets/images/21-reasons.jpg)
 
