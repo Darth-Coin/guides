@@ -1,6 +1,8 @@
 # DarthCoin Guides
 General listing of all [my substack guides](https://darthcoin.substack.com/)
 
+*(slowly I will try to make a copy of them on this Github repository)*
+
 Bitcoin & Lightning ONLY
 
 Beginner, Use cases, merchant solutions, wallets, LN nodes
