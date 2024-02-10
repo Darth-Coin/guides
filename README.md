@@ -52,6 +52,7 @@ Beginner, Use cases, merchant solutions, wallets, LN nodes
 | [What mobile device should bitcoiners use?](https://darthcoin.substack.com/p/bitcoiners-mobile-device)                  | X  | \- | \- | \- | \- | X  | \- |
 | [Lightning Cleaning Machine](https://darthcoin.substack.com/p/lightning-cleaning-machine)                               | X  | \- | \- | \- | \- | \- | \- |
 | [Bitcoin and privacy](https://darthcoin.substack.com/p/bitcoin-and-privacy)                                             | X  | \- | \- | \- | \- | \- | \- |
+| [Bitcoin adoption using Ecash](https://darthcoin.substack.com/p/bitcoin-adoption-using-ecash)                           | X  | \- | \- | \- | \- | \- | \- |
 |                                                                                                                         |    |    |    |    |    |    |    |
 | LN Nodes / Liquidity (EN)                                                                                               | ES | FR | DE | NL | IT | HR | IN |
 | [What Bitcoin LN node software can I run?](https://darthcoin.substack.com/p/what-bitcoin-ln-node-software-can)          | X  | X  | \- | X  | \- | X  | \- |
