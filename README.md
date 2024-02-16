@@ -1,7 +1,7 @@
 # DarthCoin Guides
 General listing of all [my substack guides](https://darthcoin.substack.com/)
 
-*(slowly I will try to make a copy of them on this Github repository)*
+*(slowly I will try to make a copy of them on this Github repository and convert it into a simple nice webpage on [https://darth-coin.github.io](https://darth-coin.github.io/) - work in progress...)*
 
 Bitcoin & Lightning ONLY
 
